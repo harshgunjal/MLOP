@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+altair
+seaborn==0.13.2
+streamlit
+textblob
+wordcloud
+matplotlib
+pandas
